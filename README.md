@@ -11,7 +11,6 @@ This repository contains practicals for the Artificial Intelligence A2 course.
 - **Spam_DetectionConceptipynb.ipynb** – Spam detection using text classification techniques.
 - **Stemming_TFIDF_Feature_Extraction.ipynb** – Preprocessing text using stemming and TF-IDF.
 - **TIC_TAC_TOE.ipynb** – AI-based implementation of the Tic Tac Toe game.
-- 
 Each file contains code and examples for easy understanding and implementation.
 
 
